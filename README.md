@@ -6,7 +6,6 @@
 - 😄 college name : Ekurhuleni West college 
   
 
-<!---
-202380317/202380317 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!---notwane_aobakwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
